@@ -129,8 +129,8 @@ blockquote{
 
 .cuadrado{
     margin: 0.5rem;
-    height: 10rem;
-    width: 10rem;
+    height: 6rem;
+    width: 6rem;
     background-color: red;
     transition: 0.4s ease;
 }
@@ -145,8 +145,8 @@ blockquote{
     border-radius: 100%;
     margin: 0.5rem;
     margin-top: 2rem;
-    height: 10rem;
-    width: 10rem;
+    height: 6rem;
+    width: 6rem;
     background-color: green;
     animation: mover 3s infinite;
 }
